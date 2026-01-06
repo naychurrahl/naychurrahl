@@ -62,7 +62,7 @@ Experience-driven professional development focused on real-world software delive
 ---
 
 ## Contact
-- Email: your.email@example.com  
+- Email: onifadej@gmail.com  
 - LinkedIn: **hold tight**  
 - Resume: [Download my Resume (PDF)](https://github.com/naychurrahl/resume/MarkTwain_CV.pdf)  
 
