@@ -29,13 +29,11 @@ I design software with **security, maintainability, and scalability** baked in f
 - Static webpage showcasing NGO's information at a glance  
 - Features: About, Projects, Partners, Volunteers, Donate
 - Technologies: HTML, CSS, Tailwind, Javascript
-## Highlighted Projects
 
 ### [Contact Saving Automation - Front End](https://github.com/naychurrahl/ca_prototype)
 - Dynamic Admin Dashoard showcasing vital information at a glance  
 - Features: Auth flow (Login, Logout), Dashboard, Read, Write
 - Technologies: HTML, CSS, Tailwind, Javascript
-## Highlighted Projects
 
 ### [Contact Saving Automation - Back End](https://github.com/naychurrahl/contactAutomation)
 - Reusable JWT, role-check, and helper functions to **standardize security across projects**  
