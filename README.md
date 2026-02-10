@@ -25,13 +25,19 @@ I design software with **security, maintainability, and scalability** baked in f
 
 ## Highlighted Projects
 
-### [Contact Saving Automation - Front End](https://github.com/naychurrahl/ca_automation)
+### [NGO Landing Page](https://github.com/naychurrahl/ca_prototype)
+- Static webpage showcasing NGO's information at a glance  
+- Features: About, Projects, Partners, Volunteers, Donate
+- Technologies: HTML, CSS, Tailwind, Javascript
+## Highlighted Projects
+
+### [Contact Saving Automation - Front End](https://github.com/naychurrahl/ca_prototype)
 - Dynamic Admin Dashoard showcasing vital information at a glance  
 - Features: Auth flow (Login, Logout), Dashboard, Read, Write
 - Technologies: HTML, CSS, Tailwind, Javascript
 ## Highlighted Projects
 
-### [Contact Saving Automation - Back End](https://github.com/naychurrahl/ca_automation)
+### [Contact Saving Automation - Back End](https://github.com/naychurrahl/contactAutomation)
 - Reusable JWT, role-check, and helper functions to **standardize security across projects**  
 - Technologies: PHP, REST APIs, OAuth
 
@@ -44,11 +50,6 @@ I design software with **security, maintainability, and scalability** baked in f
 - Real-time messaging with **auth and conversation-level access control**  
 - Features: Message persistence, sender/receiver mapping, upgrade-ready design  
 - Technologies: PHP, JavaScript, MySQL  
-
-### [Media / Streaming Platform]
-- Streaming UI with **permission-aware admin workflows and secure screen-to-API contracts**  
-- Features: Video player, content management, user preferences  
-- Technologies: React, PHP   
 
 ---
 
