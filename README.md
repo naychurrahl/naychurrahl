@@ -25,7 +25,7 @@ I design software with **security, maintainability, and scalability** baked in f
 
 ## Highlighted Projects
 
-### [NGO Landing Page](https://github.com/naychurrahl/ca_prototype)
+### [NGO Landing Page](https://github.com/naychurrahl/hapy_model)
 - Static webpage showcasing NGO's information at a glance  
 - Features: About, Projects, Partners, Volunteers, Donate
 - Technologies: HTML, CSS, Tailwind, Javascript
