@@ -2,7 +2,7 @@
 
 🌍 **Available for Immediate Relocation | 5+ Years Experience | Secure, Production-Ready Systems**  
 
-GitHub: [github.com/naychurrahl](https://github.com/naychurrahl)  
+GitHub: [github.com/naychurrahl](https://github.com/naychurrahl/tab=repositories)  
 
 ---
 
