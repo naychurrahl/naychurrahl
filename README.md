@@ -1,4 +1,4 @@
-# Precious Onifade – Senior Full-Stack Software Engineer 🚀
+# Precious Onifade – Senior Full-Stack Software Engineer
 
 🌍 **Available for Immediate Relocation | 5+ Years Experience | Secure, Production-Ready Systems**  
 
@@ -25,6 +25,11 @@ I design software with **security, maintainability, and scalability** baked in f
 
 ## Highlighted Projects
 
+### [Landing page](https://github.com/naychurrahl/ca_automation)
+- Static webpage showcasing organisation at a glance with call to action  
+- Technologies: HTML, CSS, Tailwind, Javascript
+## Highlighted Projects
+
 ### [E-Commerce Platform](https://github.com/naychurrahl/rachvicsignatures)
 - Full-stack shopping platform with **secure authentication and role-based access**  
 - Features: Products, carts, orders, admin dashboard, checkout workflow  
@@ -43,10 +48,6 @@ I design software with **security, maintainability, and scalability** baked in f
 ### [Auth & API Security Patterns]
 - Reusable JWT, role-check, and helper functions to **standardize security across projects**  
 - Technologies: PHP, REST APIs  
-
-### [Frontend Build Playground]
-- Vite build configs, environment handling, and CORS examples for **production-ready frontend systems**  
-- Technologies: React, Vite, npm, Node.js  
 
 ---
 
