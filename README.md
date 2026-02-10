@@ -14,7 +14,7 @@ I design software with **security, maintainability, and scalability** baked in f
 
 ## Key Skills
 - **Languages:** PHP, JavaScript, TypeScript, Python, SQL  
-- **Frontend:** React, Vite, HTML5, CSS3, Responsive Design  
+- **Frontend:** React, Vite, HTML5, CSS3, TailWind  
 - **Backend:** PHP (custom architecture), REST APIs, JWT Authentication  
 - **Databases:** MySQL, Relational Database Design  
 - **Security Practices:** Token-based authentication, role-based access control, input validation, CORS handling  
@@ -25,10 +25,15 @@ I design software with **security, maintainability, and scalability** baked in f
 
 ## Highlighted Projects
 
-### [Landing page](https://github.com/naychurrahl/ca_automation)
-- Static webpage showcasing organisation at a glance with call to action  
+### [Contact Saving Automation - Front End](https://github.com/naychurrahl/ca_automation)
+- Dynamic Admin Dashoard showcasing vital information at a glance  
+- Features: Auth flow (Login, Logout), Dashboard, Read, Write
 - Technologies: HTML, CSS, Tailwind, Javascript
 ## Highlighted Projects
+
+### [Contact Saving Automation - Back End](https://github.com/naychurrahl/ca_automation)
+- Reusable JWT, role-check, and helper functions to **standardize security across projects**  
+- Technologies: PHP, REST APIs, OAuth
 
 ### [E-Commerce Platform](https://github.com/naychurrahl/rachvicsignatures)
 - Full-stack shopping platform with **secure authentication and role-based access**  
@@ -43,11 +48,7 @@ I design software with **security, maintainability, and scalability** baked in f
 ### [Media / Streaming Platform]
 - Streaming UI with **permission-aware admin workflows and secure screen-to-API contracts**  
 - Features: Video player, content management, user preferences  
-- Technologies: React, PHP  
-
-### [Auth & API Security Patterns]
-- Reusable JWT, role-check, and helper functions to **standardize security across projects**  
-- Technologies: PHP, REST APIs  
+- Technologies: React, PHP   
 
 ---
 
@@ -58,7 +59,7 @@ I design software with **security, maintainability, and scalability** baked in f
 ---
 
 ## Education
-Experience-driven professional development focused on real-world software delivery.
+B.Tech Computer Science 
 
 ---
 
