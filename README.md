@@ -63,8 +63,7 @@ B.Tech Computer Science
 ---
 
 ## Contact
-- Email: onifadej@gmail.com  
-- LinkedIn: **Inactive**  
-- Resume: [Download my Resume (PDF)](https://github.com/naychurrahl/resume/CV.pdf)  
+- Email: onifadej@gmail.com
+- Whatsapp: [2348111384392](https://wa.me/2348111384392)
 
 ---
