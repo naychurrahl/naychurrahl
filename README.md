@@ -2,7 +2,7 @@
 
 🌍 **Available for Immediate Relocation | 5+ Years Experience | Secure, Production-Ready Systems**  
 
-[GitHub repositories](https://github.com/naychurrahl?tab=repositories) | [Download my CV](https://github.com/naychurrahl/naychurrahl/blob/main/src/Precious%20Onifade%20cv.pdf)
+[GitHub repositories](https://github.com/naychurrahl?tab=repositories) | [Download CV](https://github.com/naychurrahl/naychurrahl/blob/main/src/Precious%20Onifade%20cv.pdf)
 
 ---
 
@@ -51,12 +51,6 @@ I design software with **security, maintainability, and scalability** baked in f
 
 ---
 
-## Certifications
-- Certified in cybersecurity – In Progress  
-- Backend API Development – Self-Directed / Practical  
-
----
-
 ## Education
 B.Tech Computer Science 
 
@@ -66,6 +60,6 @@ B.Tech Computer Science
 - Email: [onifadej@gmail.com](mailto:onifadej@gmail.com)
 - Whatsapp: [2348111384392](https://wa.me/2348111384392)
 
-## [Download my CV](https://github.com/naychurrahl/naychurrahl/blob/main/src/Precious%20Onifade%20cv.pdf)
+## [Download CV](https://github.com/naychurrahl/naychurrahl/blob/main/src/Precious%20Onifade%20cv.pdf)
 
 ---
