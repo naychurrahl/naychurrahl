@@ -66,6 +66,6 @@ B.Tech Computer Science
 - Email: [onifadej@gmail.com](mailto:onifadej@gmail.com)
 - Whatsapp: [2348111384392](https://wa.me/2348111384392)
 
-[## Download my CV](https://github.com/naychurrahl/naychurrahl/blob/main/src/Precious%20Onifade%20cv.pdf)
+## [Download my CV](https://github.com/naychurrahl/naychurrahl/blob/main/src/Precious%20Onifade%20cv.pdf)
 
 ---
