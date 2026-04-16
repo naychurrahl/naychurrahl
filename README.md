@@ -1,4 +1,4 @@
-# Precious Onifade – Full-Stack Software Engineer
+# Precious Onifade
 
 🌍 **Available for Immediate Relocation | 5+ Years Experience | Secure, Production-Ready Systems**  
 
