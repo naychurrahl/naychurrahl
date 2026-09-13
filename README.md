@@ -23,10 +23,11 @@ I design software with **security, maintainability, and scalability** baked in f
 
 ## Highlighted Projects
 
-### [NGO Landing Page](https://github.com/naychurrahl/hapy_model)
-- Static webpage showcasing NGO's information at a glance  
-- Features: About, Projects, Partners, Volunteers, Donate
-- Technologies: HTML, CSS, Tailwind, Javascript
+### [Phindol Insurance Brokers Website](https://github.com/naychurrahl/phindol)
+- Dynamic website showcasing Phindol's information  
+- Features: About, Services, Partners, CMS
+- Technologies: React, HTML, CSS, Tailwind, Typescript
+- [Live](https://github.com/naychurrahl/phindol) | [Preview](https://github.com/naychurrahl/phindol)
 
 ### [Contact Saving Automation - Front End](https://github.com/naychurrahl/ca_prototype)
 - Dynamic Admin Dashoard showcasing vital information at a glance  
