@@ -23,30 +23,32 @@ I design software with **security, maintainability, and scalability** baked in f
 
 ## Highlighted Projects
 
+
+### [Naystore ](https://github.com/naychurrahl/naystore)
+- Full-stack shopping platform with **secure authentication and role-based access**  
+- Features: Products, carts, orders, admin dashboard, checkout workflow, merchants, chat
+- Technologies: PHP, React, MySQL, JWT, REST APIs
+
 ### [Phindol Insurance Brokers Website](https://github.com/naychurrahl/phindol)
 - Dynamic website showcasing Phindol's information  
 - Features: About, Services, Partners, CMS
 - Technologies: React, HTML, CSS, Tailwind, Typescript
 - [Live](https://github.com/naychurrahl/phindol) | [Preview](https://github.com/naychurrahl/phindol)
 
-### [Contact Saving Automation - Front End](https://github.com/naychurrahl/ca_prototype)
-- Dynamic Admin Dashoard showcasing vital information at a glance  
-- Features: Auth flow (Login, Logout), Dashboard, Read, Write
+## [HYPA Landing Page](https://github.com/naychurrahl/hapy)
+- Static webpage showcasing NGO's information at a glance
+- Features: About, Projects, Partners, Volunteers, Donate
 - Technologies: HTML, CSS, Tailwind, Javascript
+- [Preview](https://hypa.vercel.app) | [Alternate](https://hypa.vercel.app/alt)
 
 ### [Contact Saving Automation - Back End](https://github.com/naychurrahl/contactAutomation)
 - Reusable JWT, role-check, and helper functions to **standardize security across projects**  
 - Technologies: PHP, REST APIs, OAuth
 
-### [E-Commerce Platform](https://github.com/naychurrahl/rachvicsignatures)
+### [Rachvic Signatures Platform](https://github.com/naychurrahl/rachvicsignatures)
 - Full-stack shopping platform with **secure authentication and role-based access**  
 - Features: Products, carts, orders, admin dashboard, checkout workflow  
-- Technologies: PHP, React, MySQL, JWT, REST APIs  
-
-### [Secure Chat Application](https://github.com/naychurrahl/naychat)
-- Real-time messaging with **auth and conversation-level access control**  
-- Features: Message persistence, sender/receiver mapping, upgrade-ready design  
-- Technologies: PHP, JavaScript, MySQL  
+- Technologies: PHP, React, MySQL, JWT, REST APIs 
 
 ---
 
