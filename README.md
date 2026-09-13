@@ -33,19 +33,19 @@ I design software with **security, maintainability, and scalability** baked in f
 - Dynamic website showcasing Phindol's information  
 - Features: About, Services, Partners, CMS
 - Technologies: React, HTML, CSS, Tailwind, Typescript
-- [Live](https://phindol.ng) | [Preview](https://phindol.vercel.app)
+ [Live](https://phindol.ng) | [Preview](https://phindol.vercel.app)
 
 ## [HYPA Landing Page](https://github.com/naychurrahl/hapy)
 - Static webpage showcasing NGO's information at a glance
 - Features: About, Projects, Partners, Volunteers, Donate
 - Technologies: HTML, CSS, Tailwind, Javascript
-[Preview](https://hapy-six.vercel.app) | [Alternate](https://hapy-six.vercel.app/alt)
+- [Preview](https://hapy-six.vercel.app) | [Alternate](https://hapy-six.vercel.app/alt)
 
 ### [Rachvic Signatures Platform](https://github.com/naychurrahl/rachvicsignatures)
 - Full-stack shopping platform with **secure authentication and role-based access**  
 - Features: Products, carts, orders, admin dashboard, checkout workflow  
 - Technologies: PHP, React, MySQL, JWT, REST APIs
-[Preview](https://rachvicsignatures.vercel.app)
+- [Preview](https://rachvicsignatures.vercel.app)
 
 ---
 
