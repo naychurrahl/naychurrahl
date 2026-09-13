@@ -39,7 +39,7 @@ I design software with **security, maintainability, and scalability** baked in f
 - Static webpage showcasing NGO's information at a glance
 - Features: About, Projects, Partners, Volunteers, Donate
 - Technologies: HTML, CSS, Tailwind, Javascript
-[Preview](https://hypa.vercel.app) | [Alternate](https://hypa.vercel.app/alt)
+[Preview](https://hapy-six.vercel.app) | [Alternate](https://hapy-six.vercel.app/alt)
 
 ### [Rachvic Signatures Platform](https://github.com/naychurrahl/rachvicsignatures)
 - Full-stack shopping platform with **secure authentication and role-based access**  
