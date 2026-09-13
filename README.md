@@ -1,7 +1,5 @@
 # Precious Onifade
 
-🌍 **Available for Immediate Relocation | 5+ Years Experience | Secure, Production-Ready Systems**  
-
 [GitHub repositories](https://github.com/naychurrahl?tab=repositories) | [Download CV](https://github.com/naychurrahl/naychurrahl/blob/main/src/Precious%20Onifade%20cv.pdf)
 
 ---
