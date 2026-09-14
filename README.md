@@ -28,12 +28,13 @@ I design software with **security, maintainability, and scalability** baked in f
 - Full-stack shopping platform with **secure authentication and role-based access**  
 - Features: Products, carts, orders, admin dashboard, checkout workflow, merchants, chat
 - Technologies: PHP, React, MySQL, JWT, REST APIs
+- [Preview](https://naystore.vercel.app)
 
 ### [Phindol Insurance Brokers Website](https://github.com/naychurrahl/phindol)
 - Dynamic website showcasing Phindol's information  
 - Features: About, Services, Partners, CMS
 - Technologies: React, HTML, CSS, Tailwind, Typescript
- [Live](https://phindol.ng) | [Preview](https://phindol.vercel.app)
+- [Live](https://phindol.ng) | [Preview](https://phindol.vercel.app)
 
 ## [HYPA Landing Page](https://github.com/naychurrahl/hapy)
 - Static webpage showcasing NGO's information at a glance
